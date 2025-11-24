@@ -1,4 +1,7 @@
 
 [
-  "x-ray-imaging", "ultrasound", "ct-scan"
+  "ct-scan-with-contrast",
+  "x-ray",
+  "ct-scan-without-contrast",
+  "ultrasound"
 ]
