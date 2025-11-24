@@ -1,3 +1,20 @@
+
 [
-  "diarrhea", "fever-and-seizures", "uti-in-children", "respiratory-infection-in-children", "neonatal-jaundice", "premature-infant-care", "infant-nutrition", "child-nutrition", "pediatric-medications"
+  "diarrhea-in-children",
+  "fever-and-seizures-in-children",
+  "uti-in-children-and-infants",
+  "respiratory-infections-in-children-and-infants",
+  "neonatal-jaundice",
+  "premature-infant-care",
+  "ttn",
+  "croup",
+  "favism",
+  "peanut-allergy",
+  "congenital-heart-diseases",
+  "respiratory-distress-syndrome",
+  "meconium-aspiration",
+  "infant-vaccines",
+  "infant-nutrition-and-care",
+  "child-nutrition",
+  "home-phototherapy"
 ]
