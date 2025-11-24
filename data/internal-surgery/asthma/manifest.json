@@ -1,11 +1,1 @@
-{
-  "name": "آسم",
-  "files": [
-    {
-      "path": "pamphlet.txt",
-      "name": "پمفلت آسم",
-      "description": "راهنمای آموزشی برای بیماران مبتلا به آسم.",
-      "type": "unknown"
-    }
-  ]
-}
+{"name": "آسم", "files": []}
